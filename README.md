@@ -1,6 +1,8 @@
-# waveSimulation
+# Wave simulation
 
 Administrator cmd
+
+Install dependencies:
 
 ```
 python -m pip install --upgrade pip
